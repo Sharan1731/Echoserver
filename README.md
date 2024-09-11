@@ -60,7 +60,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ![image](https://github.com/user-attachments/assets/cae53be1-93c5-4dbd-8c0f-d2b0c037ce68)
 
 ### server
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/66e3fb1c-a607-49a6-8af0-3ec493ae9228)
+
 
 
 ## RESULT:
